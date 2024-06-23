@@ -26,11 +26,11 @@ Naijastan Music - Naija Latest Music is your ultimate destination for the freshe
 
 <a href="https://primestan.ng/entertainment/movies/">Movies</a>
 
-<a href="https://primestan.ng/sports/football/"Soccer News</a>
+<a href="https://primestan.ng/sports/football/">Soccer News</a>
 
 <a href="https://primestan.ng/sports/tennis/">Tennis</a>
 
-<a href="https://primestan.ng/sports/basketball/>Basketball</a>
+<a href="https://primestan.ng/sports/basketball/">Basketball</a>
 
 <a href="https://primestan.ng/sports/ama/">AMA Sports</a>
 </body>
