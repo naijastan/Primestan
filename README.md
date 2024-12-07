@@ -12,8 +12,8 @@ Naijastan Music - Naija Latest Music is your ultimate destination for the freshe
 <body>
     <h1>Welcome to Naijastan Music</h1>
     <p>Explore the latest Naija music at <a href="https://naijastan.com">Naijastan.com</a>.</p>
-    <a href="https://primestan.ng">Primestan</a>
-<a href="https://primestan.ng/news/">News</a>
+    <a href="https://neme24.com">African News</a>
+<a href="https://neme24.com/news/">Nigerian News</a>
 <a href="https://primestan.ng/blog/">Blog</a>
 <a href="https://primestan.ng/sports/">Sports</a>
 <a href="https://primestan.ng/entertainment/">Entertainment</a>
